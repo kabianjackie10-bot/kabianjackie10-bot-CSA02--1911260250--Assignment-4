@@ -1,0 +1,1 @@
+sizeof union = 8, sizeof struct reading = 12\nTemp 31.5 C\nHumidity 68 %\nStatus OK\n

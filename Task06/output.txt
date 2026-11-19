@@ -1,0 +1,1 @@
+Sold 2 Milk; stock=3\nSale rejected: Idli\nSold 1 Combo; stock=2\nMilk revenue=60.00\nIdli revenue=0.00\nCombo revenue=80.00\n
